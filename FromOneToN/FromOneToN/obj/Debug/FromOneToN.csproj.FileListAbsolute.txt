@@ -1,0 +1,7 @@
+D:\GitHub\CSharpBasics\FromOneToN\FromOneToN\bin\Debug\FromOneToN.exe.config
+D:\GitHub\CSharpBasics\FromOneToN\FromOneToN\bin\Debug\FromOneToN.exe
+D:\GitHub\CSharpBasics\FromOneToN\FromOneToN\bin\Debug\FromOneToN.pdb
+D:\GitHub\CSharpBasics\FromOneToN\FromOneToN\obj\Debug\FromOneToN.csprojAssemblyReference.cache
+D:\GitHub\CSharpBasics\FromOneToN\FromOneToN\obj\Debug\FromOneToN.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharpBasics\FromOneToN\FromOneToN\obj\Debug\FromOneToN.exe
+D:\GitHub\CSharpBasics\FromOneToN\FromOneToN\obj\Debug\FromOneToN.pdb

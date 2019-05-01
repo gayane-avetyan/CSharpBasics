@@ -1,0 +1,7 @@
+D:\GitHub\CSharpBasics\CSharpBasics\TableWithNumbers\TableWithNumbers\obj\Debug\TableWithNumbers.csprojAssemblyReference.cache
+D:\GitHub\CSharpBasics\CSharpBasics\TableWithNumbers\TableWithNumbers\obj\Debug\TableWithNumbers.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharpBasics\CSharpBasics\TableWithNumbers\TableWithNumbers\bin\Debug\TableWithNumbers.exe.config
+D:\GitHub\CSharpBasics\CSharpBasics\TableWithNumbers\TableWithNumbers\bin\Debug\TableWithNumbers.exe
+D:\GitHub\CSharpBasics\CSharpBasics\TableWithNumbers\TableWithNumbers\bin\Debug\TableWithNumbers.pdb
+D:\GitHub\CSharpBasics\CSharpBasics\TableWithNumbers\TableWithNumbers\obj\Debug\TableWithNumbers.exe
+D:\GitHub\CSharpBasics\CSharpBasics\TableWithNumbers\TableWithNumbers\obj\Debug\TableWithNumbers.pdb

@@ -1,0 +1,7 @@
+D:\GitHub\CSharpBasics\CSharpBasics\FromOneToNSelection\FromOneToNSelection\bin\Debug\FromOneToNSelection.exe.config
+D:\GitHub\CSharpBasics\CSharpBasics\FromOneToNSelection\FromOneToNSelection\bin\Debug\FromOneToNSelection.exe
+D:\GitHub\CSharpBasics\CSharpBasics\FromOneToNSelection\FromOneToNSelection\bin\Debug\FromOneToNSelection.pdb
+D:\GitHub\CSharpBasics\CSharpBasics\FromOneToNSelection\FromOneToNSelection\obj\Debug\FromOneToNSelection.csprojAssemblyReference.cache
+D:\GitHub\CSharpBasics\CSharpBasics\FromOneToNSelection\FromOneToNSelection\obj\Debug\FromOneToNSelection.csproj.CoreCompileInputs.cache
+D:\GitHub\CSharpBasics\CSharpBasics\FromOneToNSelection\FromOneToNSelection\obj\Debug\FromOneToNSelection.exe
+D:\GitHub\CSharpBasics\CSharpBasics\FromOneToNSelection\FromOneToNSelection\obj\Debug\FromOneToNSelection.pdb
