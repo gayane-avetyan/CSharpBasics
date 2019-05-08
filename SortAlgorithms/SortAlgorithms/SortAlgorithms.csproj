@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{14D88400-05C0-4E1F-A851-B9B9779998B0}</ProjectGuid>
+    <ProjectGuid>{61D82588-6156-42D7-AF47-9ED04604A345}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Point</RootNamespace>
-    <AssemblyName>Point</AssemblyName>
+    <RootNamespace>SortAlgorithms</RootNamespace>
+    <AssemblyName>SortAlgorithms</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Point3D.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sorting.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
